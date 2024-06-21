@@ -85,7 +85,7 @@
 
 <p align="center">
   <img height="150" width="150" src="https://r.resimlink.com/sk_3TG.png">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MehmettDemir&theme=dark&background=000000"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yasinbilg1&theme=dark&background=000000"/>
   <img height="150" width="150" src="https://r.resimlink.com/zpU0xv.png">
 </p>
 
