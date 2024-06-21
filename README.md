@@ -6,7 +6,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Welcome+Software+Library+Channel;+Welcome+Mehmet+Demir+Channel)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Welcome+Software+Library+Channel;+Welcome+Yasin+Melih+Bilgi+Channel)
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Languages and Tools </b></h2>
 <div align="center">
