@@ -60,10 +60,7 @@
     <a href="mailto:y.melihbilgi@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
     </a>
-    <a href="www.linkedin.com/in/
-yasinbilgi
-
-" target="_blank" rel="noopener noreferrer">
+    <a href="www.linkedin.com/in/yasinbilgi" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
     </a>
     <a href="https://medium.com/@mehmettt.demir10" target="_blank" rel="noopener noreferrer">
