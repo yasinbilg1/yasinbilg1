@@ -57,10 +57,13 @@
 
 <h2>Communication</h2>
 <div align="center"> 
-    <a href="mailto:mehmettt.demir10@gmail.com" target="_blank" rel="noopener noreferrer">
+    <a href="mailto:y.melihbilgi@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/mehmet-demir-7437a425b/" target="_blank" rel="noopener noreferrer">
+    <a href="www.linkedin.com/in/
+yasinbilgi
+
+" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
     </a>
     <a href="https://medium.com/@mehmettt.demir10" target="_blank" rel="noopener noreferrer">
